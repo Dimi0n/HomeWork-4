@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0j9znArhBdk2/G4/zVJuPueWW2ePxIfNxilWuwIeYlsrCLjsdLlZ5Cqd6LXpiNGa0wbOogNpXGRKd+btQauJbQ==",
+  "dgSpecHash": "uqteqjLzvLMl/dRvWApbMi4UzHDFCX7B4zhy1sTQtk4fsbhLLPD7RA74qZnq5T9BV5D2Wg6ykfSrkT9vy0GBSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dimion\\Desktop\\GB Дом.задания\\HomeWork#4\\HomeWork#4\\HomeWork#4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Dimion\\Desktop\\GB Дом.задания\\Первая часть\\HomeWork#4\\HomeWork#4\\HomeWork#4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimion\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Dimion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Dimion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Dimion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
